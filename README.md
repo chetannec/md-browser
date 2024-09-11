@@ -16,6 +16,10 @@ NEC Corporation India
 - Sort files by last modified date
 - Display creation and modification dates for each file
 
+## Feature Suggestions
+
+We welcome your ideas for improving Markdown File Browser! If you have suggestions for new features or enhancements, please check out our [Suggestions Guide](suggestions.md) for information on how to submit your ideas.
+
 ## Prerequisites
 
 - Node.js (v12 or higher recommended)
