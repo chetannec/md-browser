@@ -22,11 +22,9 @@ We appreciate your input on how to improve the Markdown File Browser. If you hav
 
 Here are some features we're considering for future updates:
 
-1. Dark mode for the interface
-2. Search functionality for Markdown files
-3. Tagging system for better organization
-4. Collaborative editing features
-5. Integration with cloud storage services
+1. Search functionality
+2. Version of markdown files
+3. Metadata of markdown files
 
 Feel free to comment on these or suggest entirely new ideas!
 
