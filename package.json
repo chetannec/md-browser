@@ -1,0 +1,19 @@
+{
+  "name": "markdown-file-browser",
+  "version": "1.0.0",
+  "description": "A simple web application to browse, view, and download Markdown files",
+  "author": "Chetan Vashistth",
+  "organization": "NEC Corporation India",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.20.0",
+    "marked": "^14.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "npx nodemon server.js"
+  }
+}

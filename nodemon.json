@@ -1,0 +1,8 @@
+{
+  "watch": ["server.js", "public", "markdown"],
+  "ext": "js,html,css,md",
+  "ignore": ["node_modules/"],
+  "env": {
+    "NODE_ENV": "development"
+  }
+}
